@@ -3,11 +3,19 @@
 <a href="https://www.linkedin.com/in/nithin1729s/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br />
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Nithin1729S)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sureshnithin1729/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nithin1729s)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sureshnithin1729)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshnithin1729@gmail.com)
+
 
 <br />
 
-I'm a B.Tech student at the National Institute of Techonology Karnataka Surathkal 🎓
+<br />
+
+I'm an Information Technology Undergrad at the National Institute of Techonology Karnataka Surathkal 🎓
 <br />
 
 
