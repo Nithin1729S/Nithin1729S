@@ -15,7 +15,7 @@
 
 <br />
 
-I'm an Information Technology Undergrad at the National Institute of Techonology Karnataka Surathkal 🎓
+## I'm an Information Technology Undergrad at the National Institute of Techonology Karnataka Surathkal 🎓
 <br />
 
 
