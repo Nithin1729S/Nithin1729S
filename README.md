@@ -24,13 +24,8 @@ I'm an Information Technology Undergrad at the National Institute of Techonology
 
 <br />
 
-[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin1729s&show_icons=true&theme=dracula&count_private=true)](https://github.com/nithin1729s/github-readme-stats)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1729s&layout=compact&show_icons=true&theme=dracula)](https://github.com/nithin1729s/github-readme-stats)
-<br />
-<br />
-<br />
+<!--[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin1729s&show_icons=true&theme=dracula&count_private=true)](https://github.com/nithin1729s/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1729s&layout=compact&theme=dracula)
 
 </div>
 
