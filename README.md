@@ -10,23 +10,13 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sureshnithin1729)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshnithin1729@gmail.com)
 
-
-<br />
-
-<br />
-
 ## I'm an Information Technology Undergrad at the National Institute of Techonology Karnataka Surathkal 🎓
 <br />
 
 
-
-<br />
-
-<br />
-
 <!--[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin1729s&show_icons=true&theme=dracula&count_private=true)](https://github.com/nithin1729s/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1729s&layout=compact&theme=dracula)
-
+<br/>
 </div>
 
 <div align="center">
