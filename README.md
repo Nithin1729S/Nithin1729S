@@ -24,10 +24,16 @@
 ## Tech Stack I am familiar with
 
 <br />
+<img src="https://img.icons8.com/color/48/null/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/null/typescript.png"/>
+<img src="https://img.icons8.com/color/48/null/solidity.png"/>
+<img src="https://img.icons8.com/color/48/null/flask.png"/>
+<img src="https://img.icons8.com/color/48/null/django.png"/>
+<img src="https://img.icons8.com/color/48/null/firebase.png"/>
 <!--<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/>-->
 <img src="https://img.icons8.com/color/48/null/react-native.png"/>
 <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
@@ -36,10 +42,11 @@
 <br>
 <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
 <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+
 <!--<img src="https://img.icons8.com/color/48/null/sass.png"/>-->
 <!--<img src="https://img.icons8.com/color/48/null/figma--v1.png"/>-->
 <!--<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>-->
 <!--<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-d3js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-shadow-tal-revivo.png"/>-->
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" width="48"/>-->
-<!--<img src="https://img.icons8.com/color/48/null/typescript.png"/>-->
+
 </div>
