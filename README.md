@@ -29,6 +29,8 @@
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/null/golang.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/typescript.png"/>
 <img src="https://img.icons8.com/color/48/null/solidity.png"/>
