@@ -34,6 +34,7 @@
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/typescript.png"/>
 <img src="https://img.icons8.com/color/48/null/solidity.png"/>
+<img src="./icons/Docker.svg" width="48"> 
 <img src="https://img.icons8.com/color/48/null/flask.png"/>
 <img src="https://img.icons8.com/color/48/null/django.png"/>
 <img src="https://img.icons8.com/color/48/null/firebase.png"/>
