@@ -58,6 +58,7 @@
 <img src="./icons/Redux.svg" width="48"> 
 <img src="./icons/Remix-Light.svg" width="48"> 
 <img src="./icons/TailwindCSS-Light.svg" width="48"> 
+<img src="./icons/Bootstrap.svg" width="48"> 
 <img src="./icons/Postman.svg" width="48"> 
 <img src="./icons/Vercel-Light.svg" width="48"> 
 <img src="./icons/PostgreSQL-Light.svg" width="48"> 
@@ -65,7 +66,6 @@
 <img src="./icons/TensorFlow-Light.svg" width="48"> 
 <img src="./icons/PyTorch-Light.svg" width="48"> 
 <img src="./icons/OpenCV-Light.svg" width="48"> 
-<img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
 
 <!--<img src="https://img.icons8.com/color/48/null/sass.png"/>-->
 <!--<img src="https://img.icons8.com/color/48/null/figma--v1.png"/>-->
