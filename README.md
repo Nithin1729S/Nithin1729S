@@ -26,25 +26,45 @@
 
 <br />
 <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/null/golang.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/null/typescript.png"/>
-<img src="https://img.icons8.com/color/48/null/solidity.png"/>
+<img src="./icons/CPP.svg" width="48"> 
+<img src="./icons/Python-Light.svg" width="48"> 
+<img src="./icons/Java-Light.svg" width="48"> 
+<img src="./icons/GoLang.svg" width="48"> 
+<img src="./icons/Rust.svg" width="48"> 
+<img src="./icons/JavaScript.svg" width="48"> 
+<img src="./icons/TypeScript.svg" width="48"> 
+<img src="./icons/Solidity.svg" width="48"> 
+<img src="./icons/R-Light.svg" width="48"> 
+
+<img src="./icons/Git.svg" width="48"> 
+<img src="./icons/Github-Light.svg" width="48"> 
 <img src="./icons/Docker.svg" width="48"> 
-<img src="https://img.icons8.com/color/48/null/flask.png"/>
-<img src="https://img.icons8.com/color/48/null/django.png"/>
-<img src="https://img.icons8.com/color/48/null/firebase.png"/>
-<!--<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/>-->
-<img src="https://img.icons8.com/color/48/null/react-native.png"/>
-<img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
-<img src="https://img.icons8.com/fluency/48/null/express-js.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
-<br>
-<img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
+<img src="./icons/Kubernetes.svg" width="48"> 
+<img src="./icons/GCP-Light.svg" width="48"> 
+<img src="./icons/Linux-Light.svg" width="48"> 
+<img src="./icons/Flask-Light.svg" width="48"> 
+<img src="./icons/Django.svg" width="48"> 
+<img src="./icons/FastAPI.svg" width="48"> 
+<img src="./icons/Spring-Light.svg" width="48"> 
+<img src="./icons/Firebase-Light.svg" width="48"> 
+<img src="./icons/React-Light.svg" width="48"> 
+<img src="./icons/NextJS-Light.svg" width="48"> 
+<img src="./icons/NodeJS-Light.svg" width="48"> 
+<img src="./icons/ExpressJS-Light.svg" width="48"> 
+<img src="./icons/MongoDB.svg" width="48"> 
+<img src="./icons/Redis-Light.svg" width="48"> 
+<img src="./icons/RabbitMQ-Light.svg" width="48"> 
+<img src="./icons/Nginx.svg" width="48"> 
+<img src="./icons/Redux.svg" width="48"> 
+<img src="./icons/Remix-Light.svg" width="48"> 
+<img src="./icons/TailwindCSS-Light.svg" width="48"> 
+<img src="./icons/Postman.svg" width="48"> 
+<img src="./icons/Vercel-Light.svg" width="48"> 
+<img src="./icons/PostgreSQL-Light.svg" width="48"> 
+<img src="./icons/MySQL-Light.svg" width="48"> 
+<img src="./icons/TensorFlow-Light.svg" width="48"> 
+<img src="./icons/PyTorch-Light.svg" width="48"> 
+<img src="./icons/OpenCV-Light.svg" width="48"> 
 <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
 
 <!--<img src="https://img.icons8.com/color/48/null/sass.png"/>-->
