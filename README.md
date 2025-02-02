@@ -12,7 +12,6 @@
 
 
 ## I'm an Information Technology Undergrad at the National Institute of Techonology Karnataka Surathkal 🎓
-<br />
 
 
 <!--[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin1729s&show_icons=true&theme=dracula&count_private=true)](https://github.com/nithin1729s/github-readme-stats)-->
