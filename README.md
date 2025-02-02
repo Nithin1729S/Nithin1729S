@@ -16,8 +16,8 @@
 
 
 <!--[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin1729s&show_icons=true&theme=dracula&count_private=true)](https://github.com/nithin1729s/github-readme-stats)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1729s&layout=compact&theme=dracula)
-<br/>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1729s&layout=compact&theme=dracula)
+<br/>-->
 </div>
 
 <div align="center">
