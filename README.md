@@ -38,13 +38,13 @@
 <img src="./icons/Git.svg" width="48"> 
 <img src="./icons/Github-Light.svg" width="48"> 
 <img src="./icons/Docker.svg" width="48"> 
-<img src="./icons/Kubernetes.svg" width="48"> 
-<img src="./icons/GCP-Light.svg" width="48"> 
+<!-- <img src="./icons/Kubernetes.svg" width="48">  -->
+<!-- <img src="./icons/GCP-Light.svg" width="48">  -->
 <img src="./icons/Linux-Light.svg" width="48"> 
 <img src="./icons/Flask-Light.svg" width="48"> 
 <img src="./icons/Django.svg" width="48"> 
 <img src="./icons/FastAPI.svg" width="48"> 
-<img src="./icons/Spring-Light.svg" width="48"> 
+<!-- <img src="./icons/Spring-Light.svg" width="48">  -->
 <img src="./icons/Firebase-Light.svg" width="48"> 
 <img src="./icons/React-Light.svg" width="48"> 
 <img src="./icons/NextJS-Light.svg" width="48"> 
@@ -52,9 +52,9 @@
 <img src="./icons/ExpressJS-Light.svg" width="48"> 
 <img src="./icons/MongoDB.svg" width="48"> 
 <img src="./icons/Redis-Light.svg" width="48"> 
-<img src="./icons/RabbitMQ-Light.svg" width="48"> 
+<!-- <img src="./icons/RabbitMQ-Light.svg" width="48"> 
 <img src="./icons/Nginx.svg" width="48"> 
-<img src="./icons/Redux.svg" width="48"> 
+<img src="./icons/Redux.svg" width="48">  -->
 <img src="./icons/Remix-Light.svg" width="48"> 
 <img src="./icons/TailwindCSS-Light.svg" width="48"> 
 <img src="./icons/Bootstrap.svg" width="48"> 
